@@ -12,5 +12,5 @@ syntax:
  // For example:
  
  var name="Abdullah";
- console.log(name);
+ console.log(name)
  
