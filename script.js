@@ -9,6 +9,4 @@ For example:
 src is used to give path of javascript file 
 
 */
-
-
     
