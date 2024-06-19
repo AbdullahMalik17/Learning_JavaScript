@@ -12,4 +12,4 @@ syntax:
 alert(46);
 alert("Abdullah");
 var a=6;
-alert(a);
+alert(a)
