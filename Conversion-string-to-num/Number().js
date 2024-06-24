@@ -3,7 +3,6 @@
 <---------Number Function ---------->
 It own convert variable(String,float) to number
  for addition. 
-
  */
 // For example :
 var age = prompt("Whast is your age?");
