@@ -10,6 +10,6 @@ Or, variable to another variable.
 var c=10; 
 var a=5;
 var b=a;
-console.log(a);
-console.log(b);
-console.log(c);
+console.log(a)
+console.log(b)
+console.log(c)
