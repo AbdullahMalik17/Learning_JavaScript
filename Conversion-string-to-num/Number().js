@@ -6,5 +6,5 @@ It own convert variable(String,float) to number
  */
 // For example :
 var age = prompt("Whast is your age?");
-var num = 4;
+var num = 4
 var sum =Number(age)+num;//Result is in num data type.
