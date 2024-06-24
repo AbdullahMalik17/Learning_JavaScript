@@ -1,6 +1,5 @@
 /*
 
-
 <---------Assignment Operator -------->
 
 It is used to assign a value to one value to variable.
