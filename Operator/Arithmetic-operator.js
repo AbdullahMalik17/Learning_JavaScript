@@ -12,7 +12,7 @@ Modulous     | %
 Exponent     | ** 
 
 */
-// For example:-
+// For example:
  let a = 5;
  let b = 6;
  console.log(a+b);    // return 11 
@@ -21,5 +21,5 @@ Exponent     | **
  console.log(a/b);    // return 0.33 
  console.log(a%b);    // return 2
  console.log(a**b);   // return 15,625
- 
+
 
