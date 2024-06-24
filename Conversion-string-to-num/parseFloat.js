@@ -2,7 +2,7 @@
 <----------parseFloat----------->
 It is used to convert decimal value(string ) to number.
 It's syntax as follows:
-var var-name=parseFloat(______)
+var var-name=parseFloat(__)
 
 */
 //For Example:
