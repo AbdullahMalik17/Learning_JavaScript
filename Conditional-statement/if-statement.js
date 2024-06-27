@@ -16,5 +16,5 @@ condition:
 // For Example:-
  var b=6;
  if(b>=6){
-    console.log(Hello World);
+    console.log("Hello World");
  }
