@@ -2,7 +2,7 @@
 
 <----------NOT Operator---------->
 It is a negate operator.If the value is true, it gives
-false.It is represented with !
+false.It is represented with !.
 
 */
 // For example:-
