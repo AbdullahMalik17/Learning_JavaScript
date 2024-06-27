@@ -8,14 +8,14 @@ They are be used to compare a one value with another .
       
 Some of the comparison  operators are as follows
 
- 1. Check Equality               | == 
- 2. Check Equality and Data type | ===
- 3. Not Equal to                 | !=
- 4. Not equal to and Data type   | !==
- 5. Greater than                 | >
- 6. Greater than and Equal to    | >=
- 7. Less than                    | <
- 8. Less than and Equal to       | <=
+ 1. Check Equality               |      == 
+ 2. Check Equality and Data type |      ===
+ 3. Not Equal to                 |      !=
+ 4. Not equal to and Data type   |      !==
+ 5. Greater than                 |      >
+ 6. Greater than and Equal to    |      >=
+ 7. Less than                    |      <
+ 8. Less than and Equal to       |      <=
 
  Result :-
          They give the result in  boolean proposition.
