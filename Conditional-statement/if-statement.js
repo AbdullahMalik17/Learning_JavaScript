@@ -9,7 +9,7 @@ if(condition){
 set of statement 
 }
 
-condition:- 
+condition:
           It is an expression which turn result in boolean expression.
 
 */
