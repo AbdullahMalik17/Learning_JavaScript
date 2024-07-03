@@ -2,7 +2,7 @@
 
 <-------Nested Control statement------->
 In which we use double if .
-It's syntax as folows:-
+It's syntax as folows:
 
 if(condition){
   if(condition){
