@@ -1,4 +1,4 @@
-### string 
+# string 
 It is a primitive data type .It is witten between "" and 
 ''. Every part of string has index values 
 
