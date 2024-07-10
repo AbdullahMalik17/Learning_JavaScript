@@ -1,4 +1,4 @@
-### Function
+# Function
  The block of code which helps us when we call it (invoke it).
  For this purpose we use function. It is an un primitive . 
 It's syntax as follows:
