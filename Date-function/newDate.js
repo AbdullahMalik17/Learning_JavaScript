@@ -12,5 +12,7 @@ For making a current date:-
 
  // program :-
 
- let a = new Date()
+ let a = new Date()   //output: 2024-07-10T10:20:36.256Z
  console.log(a)
+ let b = new Date("5 9 2024 15:19:00")
+ console.log(b)       //output: 2024-05-09T10:19:00.000Z
