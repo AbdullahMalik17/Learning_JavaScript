@@ -16,3 +16,5 @@ For making a current date:-
  console.log(a)
  let b = new Date("5 9 2024 15:19:00")
  console.log(b)       //output: 2024-05-09T10:19:00.000Z
+ let c = new Date("9 2 2000 "); 
+ console.log(c)       // output: 2000-09-01T19:00:00.000Z
