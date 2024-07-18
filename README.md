@@ -10,5 +10,5 @@ responsive , interacted and dynamic.It consist of many lessons.
 - [Comment](006-comment.js)
 - [Case Sensitive](007-case-sensitive.js)
 - [Script](008-script.js)
-- [Operators](008-Operator)
-- [Conversion From String to Number In Prompt](009-conversion-string-to-num) 
+- [Operators](\008-Operator)
+- [Conversion From String to Number In Prompt](\009-conversion-string-to-num) 
