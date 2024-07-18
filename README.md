@@ -4,3 +4,9 @@ responsive , interacted and dynamic.It consist of many lessons.
 
 ## Table of Lesson 
 - [Console.log File ](003-console-log.js)
+- [Alert](002-alert.js)
+- [prompt](004-prompt.js)
+- [document.write](005-document-write.js)
+- [Comment](006-comment.js)
+- [Case Sensitive](007-case-sensitive.js)
+- [Script](008-script.js)
