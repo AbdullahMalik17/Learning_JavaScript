@@ -23,6 +23,6 @@ function grade(marks){
     }
 
 }           
-grade(96)      // output Grade A
-grade()        // ouput Fail
-grade(78)      // output Grade C
+grade(20)      // output Grade A
+grade(30)        // ouput Fail
+grade(50)      // output Grade C
