@@ -1,6 +1,6 @@
 /*
   <---------Stack--------->
-  Stack is a liunear Data structure.It's working is like stone on
+  Stack is a linear Data structure.It's working is like stone on
   stone .It's basic implementation is Last in First out.
 
  Stack has two functions as follows:-
