@@ -10,7 +10,7 @@
            array-name.push(value);
 
  2. pop ():-          
-        It is used to remove the element from array from first out.
+        It is used to remove the element from array from last.
         It's syntax as follows:-
         array-name.pop()
   
