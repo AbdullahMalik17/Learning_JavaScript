@@ -1,7 +1,8 @@
 /*
    <--------Queue-------->
 It is a linear Data Structure .It's example is like as a grocery store . 
-First in  and First get. It's basic implementation is First in first out
+First in  and First get. It's basic implementation is First in first out.
+It's meaning in urdu is Katar
 
 It has two Functions as follows:-
 1. unshift():-
