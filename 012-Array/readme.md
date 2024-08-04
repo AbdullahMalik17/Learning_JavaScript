@@ -16,4 +16,7 @@ Some functions of array:-
 - slice()
 - indexOf()
 - LastindexOf()
+- filter()
+- map()
+- reduce 
 
