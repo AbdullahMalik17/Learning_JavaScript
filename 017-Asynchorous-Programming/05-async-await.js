@@ -1,7 +1,7 @@
 /*
     <---------Async-Await--------.
     They are used to make easiest Asynchoronous programmming.
-    Async always return promise and Awaith sttop the below the below work 
+    Async always return promise and Awaith stop the below the below work 
     until the promise proceed.
 // It's syntax as follows:-
    async function function-name{
