@@ -7,6 +7,10 @@ background compatible.
 ## Vanilla Javascript 
 The basic Javascript is called Vanilla Javascript. All the javascript which we discussed 
 above is a part of it. We don't use framework in it. 
+#### Disadvantage
+- There is no Explanation of code.
+- There is no type checking.
+- Difficult to automate file . 
 
 
 ## Table of Lesson 
