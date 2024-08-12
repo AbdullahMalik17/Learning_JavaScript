@@ -1,5 +1,6 @@
 ### Array 
 Arrays are used to store the different values in a single variable.
+We also add array inside an array is called nested array.
  They are data structure.
  There are two methods of making array as
 

@@ -1,6 +1,17 @@
 # JavaScript
 It is a scripting language that is used to make the web page  
-responsive , interacted and dynamic.It consist of many lessons.
+responsive , interacted and dynamic.It consist of many lessons. <br>
+Javascript is made in a 10 days.It is used to  make the website easily.In <br>
+that time Javascript has changed many time . Javascript has a 
+background compatible.
+## Vanilla Javascript 
+The basic Javascript is called Vanilla Javascript. All the javascript which we discussed 
+above is a part of it. We don't use framework in it. 
+#### Disadvantage
+- There is no Explanation of code.
+- There is no type checking.
+- Difficult to automate file . 
+
 
 ## Table of Lesson 
 - [ ] [Console.log File ](003-console-log.js)

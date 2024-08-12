@@ -10,6 +10,6 @@ It's syntax as follows:-y
 // For example:-
     let num = [1,2,3,4,5,6,7,8,9]
     let n = num.filter((a) =>{
-    return a%2==0
+      return a%2==0
     }) 
     console.log(n);  // return [2,4,6,8]
