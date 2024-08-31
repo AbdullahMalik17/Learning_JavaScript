@@ -25,8 +25,11 @@ let p=new Promise((resolve,reject)=>{
        function.then((res) =>{.....})
        function returns the promise.
    2. If the state turn to be rejected . Then if we want to show some other things so we use the following syntax:-
-       function.then((res) =>{.....})
+       function.catch((err) =>{.....})
        function return the promise.
+   3. If we want to show a message whether the data is fullfilled or not .Then, we use finally.
+       It's syntax as follows:-
+       funcion.finally(()=>{.....})     
 */          
  
  

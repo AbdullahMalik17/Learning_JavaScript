@@ -1,7 +1,7 @@
 /*
     <------Call Back Hell------>
     When we use different call back , it is difficult to understand to us. 
-    This ius callerd Callback Hell.
+    This is callerd Callback Hell.
 
 */
    function getId(data,data2){

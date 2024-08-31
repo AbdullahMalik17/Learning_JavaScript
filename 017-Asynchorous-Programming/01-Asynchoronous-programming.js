@@ -8,8 +8,8 @@
         synchorous programming.
        
 <-------Asynchoronous Programming--------->
-   Due to Synchorous Programming , all the executin is stopped for some second.
-   To meet this problem we use Asynchoronous Programming.
+   Due to Synchorous Programming , all the execution is stopped for some second.
+   To meet this problem , we use Asynchoronous Programming.
     Function:-
          setTimeOut is an asynchorous function . It stop the function for that time which we want and runs the 
          below code.
