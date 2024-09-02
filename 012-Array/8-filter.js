@@ -9,7 +9,7 @@ It's syntax as follows:-y
  */
 // For example:-
     let num = [1,2,3,4,5,6,7,8,9]
-    let n = num.filter((a) =>{
+    let n = num.filter((a) =>{      // We also give any of the parameter name .
       return a%2==0
     }) 
     console.log(n);  // return [2,4,6,8]
