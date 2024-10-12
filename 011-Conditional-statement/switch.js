@@ -1,8 +1,8 @@
 /*
 <---------- Switch statement----------->
 It is a conditional statement that is used when we have many 
-case . we are to select one . It checks the equality with case .
-Which case is matching with value ,that ase is executing.
+case . We are to select one . It checks the equality with case .
+Which case is matching with value ,that case is executing.
 
 It's syntax as follows
 

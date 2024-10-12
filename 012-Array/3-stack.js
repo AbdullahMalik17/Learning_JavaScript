@@ -9,11 +9,15 @@
         It's sntax as follows:-
            array-name.push(value);
 
- 2. pop ():-          
-        It is used to remove the element from array from last.
+ 2. switch:-          
+        It is used to remove the element in the array from first.
         It's syntax as follows:-
-        array-name.pop()
-  
+        array-name.switch()
+ 3. pop:-
+       It is used to remove the element in the array from last 
+       It syntax as follows:-
+       array-name.pop()
+
 */
 // For Example :-
 let name=[]

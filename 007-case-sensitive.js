@@ -6,3 +6,4 @@ keywords as variable name.
 For example :
 if is not use as variable name.
 */
+var if ="hello" // error
