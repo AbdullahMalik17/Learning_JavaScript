@@ -7,7 +7,12 @@ It's syntax as follows:-
 2. second array is an array which we want to merge.
 */
 // Program:-
-let array1 = ["1", "2", "3"];
-let array2 = ["6", "5", "4"];
-let array3 = array1.concat(array2); 
-console.log(array3);   // result ['1', '2', '3', '6', '5', '4']
+ let array1 = [1,2,3]
+let array2 = [4,5,6]
+let array = array1.concat(array2)
+console.log(array)
+
+let magicians = ["Agi","Juudd","Lice"]
+for(magician in magicians){
+     console.log(magician)
+}
